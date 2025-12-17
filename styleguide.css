@@ -1,0 +1,25 @@
+:root {
+  --white: rgba(255, 255, 255, 1);
+  --complementary-colorsyellow05: rgba(255, 253, 237, 1);
+  --complementary-colorsblue95: rgba(5, 23, 36, 1);
+  --complementary-colorsyellow4: rgba(255, 236, 112, 1);
+  --main-colorspurple5: rgba(146, 95, 240, 1);
+  --main-colorsgray10: rgba(0, 0, 0, 1);
+  --main-colorsgray4: rgba(41, 41, 41, 1);
+  --main-colorsgreen3: rgba(200, 254, 199, 1);
+  --main-colorsgray5: rgba(11, 11, 11, 1);
+  --main-colorsgray2: rgba(100, 100, 100, 1);
+  --main-colorspurple6: rgba(120, 77, 199, 1);
+  --main-colorspurple1: rgba(233, 223, 252, 1);
+  /* --main-colorspurple3: rgba(190, 159, 246, 1); */
+  --main-colorsgray15: rgba(115, 115, 115, 1);
+  --main-colorsgray95: rgba(1, 1, 1, 1);
+  --main-colorspurple4: rgba(168, 127, 243, 1);
+  --main-colorsgray-1: rgba(230, 230, 230, 1);
+  --h1-gotham-black-active-center-left-font-family: "Gotham Black", Helvetica;
+  --h1-gotham-black-active-center-left-font-weight: 400;
+  --h1-gotham-black-active-center-left-font-size: 36px;
+  --h1-gotham-black-active-center-left-letter-spacing: -1.8px;
+  --h1-gotham-black-active-center-left-line-height: 100%;
+  --h1-gotham-black-active-center-left-font-style: normal;
+}
