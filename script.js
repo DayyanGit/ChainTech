@@ -229,6 +229,4 @@ images.forEach(img => {
 //   });
 // }
 
-// Console welcome message
-console.log('%c👋 Welcome to Cristian Munoz Portfolio!', 'color: #925ff0; font-size: 20px; font-weight: bold;');
-console.log('%cInterested in the code? Check out the repository!', 'color: #c8fec7; font-size: 14px;');
+
